@@ -2,7 +2,7 @@
 
 # 🎨👨🏻‍💻 Gabriele D. E.
 
-** `Full-Stak Web Developer Junior` **
+`Full-Stak Web Developer Junior`
 
 <p> Hi there, i was born with a passion for drawing, which I studied self-taught, over time I also studied graphic design and in the end I landed in web development preferring the front-end area so as to be able to combine all my artistic and graphic skills. </p>
 

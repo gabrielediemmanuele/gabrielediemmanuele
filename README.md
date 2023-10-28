@@ -79,22 +79,22 @@
 
 <span>
 <a href="https://www.adobe.com/it/" style="text-decoration:none">
-<img style="width:50px;margin-right:5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" />
+<img style="width:50px;margin-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" />
 </a>
 </span>
 <span>
 <a href="https://www.adobe.com/it/" style="text-decoration:none">
-<img style="width:50px;margin-right:5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" />
+<img style="width:50px;margin-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" />
 </a>
 </span>
 <span>
 <a href="https://www.adobe.com/it/" style="text-decoration:none">
-<img style="width:50px;margin-right:5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png"/>
+<img style="width:50px;margin-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png"/>
 </a>
 </span>
 <span>
 <a href="https://www.adobe.com/it/" style="text-decoration:none">
-<img style="width:50px;margin-right:5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/2101px-Adobe_InDesign_CC_icon.svg.png" />
+<img style="width:50px;margin-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/2101px-Adobe_InDesign_CC_icon.svg.png" />
 </a>
 </span>
 

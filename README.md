@@ -30,47 +30,47 @@
 <img style="width:50px;margin-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </span>
 <span>
-<a href="https://getbootstrap.com/">
+<a href="https://getbootstrap.com/" style="text-decoration:none">
 <img style="width:50px;margin-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 </a>
 </span>
 <span>
-<a href="https://nodejs.org/en">
+<a href="https://nodejs.org/en" style="text-decoration:none">
 <img style="width:50px;margin-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 </a>
 </span>
 <span>
-<a href="https://vuejs.org/">
+<a href="https://vuejs.org/" style="text-decoration:none">
 <img style="width:50px;margin-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </a>
 </span>
 <span>
-<a href="https://vitejs.dev/">
+<a href="https://vitejs.dev/" style="text-decoration:none">
 <img style="width:50px;margin-right:5px;" src=https://www.svgrepo.com/show/374167/vite.svg />
 </a>
 </span>
 <span>
-<a href="https://sass-lang.com/">
+<a href="https://sass-lang.com/" style="text-decoration:none">
 <img style="width:50px;margin-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </a>
 </span>
 <span>
-<a href="https://www.php.net/">
+<a href="https://www.php.net/" style="text-decoration:none">
 <img style="width:50px;margin-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 </a>
 </span>
 <span>
-<a href="https://git-scm.com/">
+<a href="https://git-scm.com/" style="text-decoration:none">
 <img style="width:50px;margin-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </a>
 </span>
 <span>
-<a href="https://www.mysql.com/it/">
+<a href="https://www.mysql.com/it/" style="text-decoration:none">
 <img style="width:50px;margin-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </a>
 </span>
 <span>
-<a href="https://laravel.com/">
+<a href="https://laravel.com/" style="text-decoration:none">
 <img style="width:50px;margin-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 </a>
 </span>
@@ -78,22 +78,22 @@
 ## 🛠️ Softwares
 
 <span>
-<a href="https://laravel.com/">
+<a href="https://www.adobe.com/it/" style="text-decoration:none">
 <img style="width:50px;margin-right:5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" />
 </a>
 </span>
 <span>
-<a href="https://laravel.com/">
+<a href="https://www.adobe.com/it/" style="text-decoration:none">
 <img style="width:50px;margin-right:5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" />
 </a>
 </span>
 <span>
-<a href="https://laravel.com/">
+<a href="https://www.adobe.com/it/" style="text-decoration:none">
 <img style="width:50px;margin-right:5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png"/>
 </a>
 </span>
 <span>
-<a href="https://laravel.com/">
+<a href="https://www.adobe.com/it/" style="text-decoration:none">
 <img style="width:50px;margin-right:5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/2101px-Adobe_InDesign_CC_icon.svg.png" />
 </a>
 </span>

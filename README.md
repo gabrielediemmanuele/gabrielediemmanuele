@@ -11,7 +11,7 @@
 ## ⏳ Currently...
 
 ### 🎯 📚
-<div>
+<div style="margin-bottom:15px;">
 Ready for final project in 
 </div>
 <img style="width:150px;margin-right:5px;margin-top:15px;" src="https://lwfiles.mycourse.app/6368e5089f20781a7e4f1805-public/2c162927114072f9ebbf04043a593fb9.png" />

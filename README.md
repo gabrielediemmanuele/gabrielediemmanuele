@@ -11,13 +11,7 @@
 ## ⏳ Currently...
 
 ### 🎯 📚
-Ready for final project in <span style="color:#7EF992">Boolean</span>
-
-<span>
-<a href="https://laravel.com/">
-<img style="width:50px;margin-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-</a>
-</span>
+Ready for final project in <span style="color:#7ef992">Boolean</span>
 
 ## ⚙️Technologies
 

@@ -12,9 +12,9 @@
 
 ### 🎯 📚
 Ready for final project in 
-```diff 
-+ Boolean
-```
+<span>
+<img style="width:50px;margin-right:5px;" src="https://hiringplatform.boolean.careers/images/logo.png" />
+</span>
 ## ⚙️Technologies
 
 <span>

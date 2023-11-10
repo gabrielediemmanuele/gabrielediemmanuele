@@ -11,7 +11,10 @@
 ## ⏳ Currently...
 
 ### 🎯 📚
-Ready for final project in ```diff + Boolean ```
+Ready for final project in 
+```diff 
++ Boolean
+```
 ## ⚙️Technologies
 
 <span>

@@ -11,7 +11,7 @@
 ## ⏳ Currently...
 
 ### 🎯 📚
-Ready for final project in <span style="color:#7ef992;">Boolean</span>
+Ready for final project in <span style="color:#91ff47;">Boolean</span>
 
 ## ⚙️Technologies
 

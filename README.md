@@ -10,7 +10,8 @@
 
 ## ⏳ Currently...
 
-### 🎯 📚 I'm studing Laravel.
+### 🎯 📚
+Ready for final project in <span style="color:#7EF992">Boolean</span>
 
 <span>
 <a href="https://laravel.com/">

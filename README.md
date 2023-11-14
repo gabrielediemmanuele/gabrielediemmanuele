@@ -1,7 +1,7 @@
 
 <a href="https://www.linkedin.com/in/gabriele-di-emmanuele/"><img style="width:100%;" src="https://media.licdn.com/dms/image/D4D16AQHmEp8HqSrqRw/profile-displaybackgroundimage-shrink_350_1400/0/1699964981865?e=1705536000&v=beta&t=ipdBVqnvWYfeYFJNUKv_yGlZicRN5fPZnk4AyXxO768" /></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1500&color=966FF7&vCenter=true&random=false&width=435&lines=Code+and+Art+in+the+some+way%2C;with+passion.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=FFA200&random=false&width=435&lines=Imagine+and+Coding+in+the+some+way%2C;with+passion.)](https://git.io/typing-svg)
 
 # 🎨👨🏻‍💻 Gabriele D. E.
 

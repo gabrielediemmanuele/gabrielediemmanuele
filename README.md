@@ -102,9 +102,17 @@ Ready for final project in
 </span>
 
 ## 🤙🏻 Contacts
+<span>
+<h4>E-Mail 📧</h4>
+`gabriele.diemmanuele@outlook.it`
+</span>
 
-- wip.
-- wip.
+<span>
+<span>Linkedin 👨🏻‍💻</span>
+Click ➡️ <a href="https://www.linkedin.com/in/gabriele-di-emmanuele/" style="text-decoration:none">
+<img style="width:50px;margin-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />
+</a>
+</span>
 
 ## 🕉️ About me...
 

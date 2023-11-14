@@ -1,3 +1,5 @@
+![[Linkedin Profile cover.jpg]]
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1500&color=966FF7&vCenter=true&random=false&width=435&lines=Code+and+Art+in+the+some+way%2C;with+passion.)](https://git.io/typing-svg)
 
 # 🎨👨🏻‍💻 Gabriele D. E.

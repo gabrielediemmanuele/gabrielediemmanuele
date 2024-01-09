@@ -17,8 +17,6 @@
 ## Ready to find Work and have fun!
 <br>
 <br>
-<img style="width:150px;margin-right:5px;margin-top:15px;" src="https://lwfiles.mycourse.app/6368e5089f20781a7e4f1805-public/2c162927114072f9ebbf04043a593fb9.png" />
-
 
 ## ⚙️Technologies
 
@@ -103,7 +101,7 @@
 ## 🤙🏻 Contacts
 <span>
 <h4>E-Mail 📧</h4>
-    
+<a href="gabriele.diemmanuele@outlook.it">Contattami</a>
 `gabriele.diemmanuele@outlook.it`
 
 </span> 
@@ -123,3 +121,6 @@ PUSH the Button! ➡️ <a href="https://www.linkedin.com/in/gabriele-di-emmanue
     🧘🏻‍♂️☯️🏋️👨‍💻👨‍🎨🍂🍀🌊🔥❤️👩🏼‍🤝‍👨🏻✈️🏕️🏔️❄️🎮...
 </me>
 ```
+Formazione avvenuta presso:
+<br>
+<img style="width:150px;margin-right:5px;margin-top:15px;" src="https://lwfiles.mycourse.app/6368e5089f20781a7e4f1805-public/2c162927114072f9ebbf04043a593fb9.png" />

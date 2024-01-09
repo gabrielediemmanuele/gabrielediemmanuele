@@ -101,7 +101,8 @@
 ## 🤙🏻 Contacts
 <span>
 <h4>E-Mail 📧</h4>
-<a href="gabriele.diemmanuele@outlook.it">Contattami</a>
+<a href="mailto:gabriele.diemmanuele@outlook.it">Contattami</a>
+    
 `gabriele.diemmanuele@outlook.it`
 
 </span> 

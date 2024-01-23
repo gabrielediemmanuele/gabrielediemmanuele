@@ -12,9 +12,11 @@
 <hr style="height:3px;border:none;color:#333;background-color:#333;">
 
 ## ⏳ Currently...
-
+<a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/"> Upgrade Course 💹🏋️‍♀️</a>
 ### 🎯 📚
-## Ready to find Work and have fun!
+## Ready to find Work and have fun! 
+<span> but the study doesn't end here! </span>
+
 <br>
 <br>
 

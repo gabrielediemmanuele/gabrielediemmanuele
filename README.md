@@ -1,5 +1,5 @@
 
-<a href="https://www.linkedin.com/in/gabriele-di-emmanuele/"><img style="width:100%;" src="[https://media.licdn.com/dms/image/D4D16AQHmEp8HqSrqRw/profile-displaybackgroundimage-shrink_350_1400/0/1699964981865?e=1710979200&v=beta&t=UgJCM_J3J677R4dQVlrJ0-fakDcZCWtBLjOF5r-naTs](https://media.licdn.com/dms/image/D4D16AQHmEp8HqSrqRw/profile-displaybackgroundimage-shrink_350_1400/0/1699964981865?e=1718841600&v=beta&t=rxejCafRMdJRkzuPKad0ovM_SqoEd0H61iKM2KKPJzU)" /></a>
+<a href="https://www.linkedin.com/in/gabriele-di-emmanuele/"><img style="width:100%;" src="https://media.licdn.com/dms/image/D4D16AQHmEp8HqSrqRw/profile-displaybackgroundimage-shrink_350_1400/0/1699964981865?e=1718841600&v=beta&t=rxejCafRMdJRkzuPKad0ovM_SqoEd0H61iKM2KKPJzU" /></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=FFA200&random=false&width=435&lines=Imagine+and+Coding+in+the+some+way%2C;with+passion.)](https://git.io/typing-svg)
 
